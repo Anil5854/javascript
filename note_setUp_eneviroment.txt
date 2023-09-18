@@ -1,0 +1,5 @@
+click on left 3 dot 
+and open view option Command Palette (Cmd/Ctrl + Shift + P)
+and go codespace Add dev configuration file
+and search what you want like node.js, python and so on environment
+you can choose modify or new option for add environment then click ok
