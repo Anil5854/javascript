@@ -3,3 +3,37 @@ and open view option Command Palette (Cmd/Ctrl + Shift + P)
 and go codespace Add dev configuration file
 and search what you want like node.js, python and so on environment
 you can choose modify or new option for add environment then click ok
+
+react setup using command line
+
+install node.js
+how to create react folder command-line
+npm install -g npx
+
+Use "npx create-react-app" to create a basic React application. (terminal)
+first you create your folder then open vs code and new terminal and type "npx create-react-app ."
+give a poject name :
+and go to project file by cd file name you created
+then open in vs code ( code .)
+npm start ( in vs code new terminal) it open live server for the project
+
+
+Use "npx create-next-app" to create a Next.js application with advanced features like server-side rendering and routing.
+(terminal)
+first you create your folder then open vs code and new terminal and type "npx create-next-app ."
+
+give a poject name :
+and go to project file by cd file name you created
+then open in vs code ( code .)
+npm run dev ( in vs code new terminal) it open live server for the project
+npm i
+
+
+rafce to open react formate
+
+vs code setting up
+Formate On Save
+auto save (onFocusChange)
+default formatter (prettier code formatter)
+Eslint run ( onSave )
+
